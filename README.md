@@ -9,9 +9,8 @@
 var zy = require('node-zhiyan');
 zy.setConfig = {
    appKey: 'xxxx',
-   token: 'xxxx',
-   templateId: 'xxxx'
+   token: 'xxxx'
  };
  
-zy.sendSms(mobile, code, callback);
+zy.sendSms(mobile, code, templateId, callback);
 ```
