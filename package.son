@@ -1,0 +1,26 @@
+{
+  "name": "node-zhiyan",
+  "version": "0.1.0",
+  "description": "智验短信验证",
+  "homepage": "https://github.com/huyuch/node-zhiyan",
+  "author": {
+    "name": "huyuch",
+    "email": "huyuch@163.com",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyuch/node-zhiyan.git"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "node-zhiyan",
+    "智验"
+  ],
+  "dependencies": {
+    "request": "^2.60.0"
+  }
+}
